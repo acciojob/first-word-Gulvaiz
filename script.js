@@ -6,7 +6,7 @@ function firstWord(s) {
   let temp = "";
 
   for (const char of s) {
-    if (char !== " ") {
+    if (char != " ") {
       temp += char;
     } else {
       // Return the first word as soon as we encounter a space
