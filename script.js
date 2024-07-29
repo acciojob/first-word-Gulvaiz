@@ -9,7 +9,7 @@ function firstWord(s) {
         else{
            return temp
         }
-    
+    return temp;
 }
 
 // Do not change the code below
